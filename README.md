@@ -19,7 +19,7 @@ pip install -r requirements.txt
 ```bash
 python ipquery.py
 ```
-
+![Kali](https://www.hizliresim.com/9vjp0qa.png)
 
 ## Requirements
 
