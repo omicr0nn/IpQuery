@@ -1,0 +1,3 @@
+requests
+json
+fake_useragent
